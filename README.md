@@ -20,7 +20,13 @@ __Selected publications:__
 
 - The Newton-Puiseux algorithm and effective algebraic series. <a href="https://arxiv.org/abs/2209.00875" target="_blank" rel="noopener"> [arXiv] </a>
 
-- Inhomogeneous Restricted Lattice Walks. <a href="https://https://arxiv.org/abs/1811.06725" target="_blank" rel="noopener"> [arXiv] </a>
+- Inhomogeneous Restricted Lattice Walks. <a href="https://arxiv.org/abs/1811.06725" target="_blank" rel="noopener"> [arXiv] </a>
 
 __Other publications:__
+
+- Walks with small steps in the 4D-orthant. <a href="https://arxiv.org/abs/2004.14238" target="_blank" rel="noopener"> [arXiv] </a>
+
+- Quadrant walks starting outside the quadrant. <a href="https://arxiv.org/abs/2011.13373" target="_blank" rel="noopener"> [arXiv] </a>
+
+- On the problem of separating variables in multivariate polynomial ideals. <a href="https://arxiv.org/abs/2405.19223" target="_blank" rel="noopener"> [arXiv] </a>
 
