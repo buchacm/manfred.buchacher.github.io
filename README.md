@@ -15,5 +15,5 @@ Separated variables on plane algebraic curves
 
 Inhomogeneous Restricted Lattice Walks
 
-Other publications:
+__Other publications:__
 
