@@ -30,3 +30,5 @@ __Other publications:__
 
 - On the problem of separating variables in multivariate polynomial ideals. <a href="https://arxiv.org/abs/2405.19223" target="_blank" rel="noopener"> [arXiv] </a>
 
+- Graph learning based on total variation. <a href="https://ieeexplore.ieee.org/document/8461603" target="_blank" rel="noopener"> [IEEE] </a>
+
