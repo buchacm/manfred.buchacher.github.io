@@ -6,7 +6,7 @@ __Selected publications:__
 
 x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t)
 
-Separating variables on plane algebraic curves
+- [] Separating variables on plane algebraic curves
 
 Separating variables on plane algebraic curves: the local case 
 
