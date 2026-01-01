@@ -6,13 +6,13 @@ __Selected publications:__
 
 - x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t). <a href="https://arxiv.org/abs/2512.21753" target="_blank" rel="noopener"> [arXiv] </a>
 
-- Separating variables on plane algebraic curves
+- Separating variables in bivariate polynomial ideals. <a href="https://arxiv.org/abs/2002.01541" target="_blank" rel="noopener"> [arXiv] </a>
 
-- Separating variables on plane algebraic curves: the local case 
+- Separating variables in bivariate polynomial ideals: the local case. <a href="https://arxiv.org/abs/2404.10377" target="_blank" rel="noopener"> [arXiv] </a>
 
-- Separated variables on plane algebraic curves 
+- Separated variables on plane algebraic curves. <a href="https://arxiv.org/abs/2411.08584" target="_blank" rel="noopener"> [arXiv] </a>
 
-- On finite orbits of infinite correspondences
+- On finite orbits of infinite correspondences. <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
 
 - The orbit-sum method for higher order equations
 
