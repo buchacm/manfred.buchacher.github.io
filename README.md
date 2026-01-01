@@ -2,7 +2,7 @@ I am a mathematician who works on problems which arise in algorithmic enumerativ
 
 On this webpage you can find my published and not yet published articles, software, slides of selected presentations, a research statement, information on teaching, talks, conferences, research visits, and a short CV.      
 
-Selected publications:
+__Selected publications:__
 
 x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t)
 
