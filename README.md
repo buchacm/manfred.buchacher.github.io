@@ -4,6 +4,9 @@ On this webpage you can find my published and not yet published articles, softwa
 
 __Selected publications:__
 
+
+<a href="https://arxiv.org/abs/2512.21753" target="_blank" rel="noopener"> x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t) </a>
+
 - x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t)
 
 - Separating variables on plane algebraic curves
