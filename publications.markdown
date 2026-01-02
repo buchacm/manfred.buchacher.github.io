@@ -16,7 +16,7 @@ This paper is an introduction to the enumeration of restricted lattice walks tha
 
 - Separated variables on plane algebraic curves. <a href="https://arxiv.org/abs/2411.08584" target="_blank" rel="noopener"> [arXiv] </a>
 
-These articles are dedicated to the problem of finding polynomials / rational functions with separated variables. The first explains how to determine $I \cap \left(\mathbb{C}[x] + \mathbb{K}[y]\right)$ for a bivariate polynomial ideal $I$ given in terms of a bases.    
+These articles are dedicated to the problem of finding polynomials / rational functions with separated variables. The first explains how to determine $I \cap \left(\mathbb{C}[x] + \mathbb{C}[y]\right)$ for a bivariate polynomial ideal $I$ given in terms of a bases.    
 
 - On finite orbits of infinite correspondences. <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
 
