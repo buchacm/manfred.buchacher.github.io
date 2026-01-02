@@ -24,9 +24,11 @@ The above field theoretic problems, and the question how the semi-algorithms for
 
 - The orbit-sum method for higher order equations. <a href="https://arxiv.org/abs/2211.08175" target="_blank" rel="noopener"> [arXiv] </a>
 
-The orbit-sum method is a method that played an important role in the enumeration of lattice walks (with small steps). 
+The orbit-sum method is a method that has played an important role in the enumeration of lattice walks of walks with small steps. This paper generalizes it to walks with large steps.  
 
 - The Newton-Puiseux algorithm and effective algebraic series. <a href="https://arxiv.org/abs/2209.00875" target="_blank" rel="noopener"> [arXiv] </a>
+
+The generalization of the orbit-sum method relies on a thorough understanding of the Newton-Puiseux algorithm and how it allows one to encode algebraic series and derive information about them. The above paper contains some thoughts on it. 
 
 - Inhomogeneous Restricted Lattice Walks. <a href="https://arxiv.org/abs/1811.06725" target="_blank" rel="noopener"> [arXiv] </a>
 
