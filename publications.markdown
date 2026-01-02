@@ -20,7 +20,7 @@ These articles are dedicated to the problem of finding polynomials / rational fu
 
 - On finite orbits of infinite correspondences. <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
 
-The above field theoretic problems, and the question how the semi-algorithms for their treatment can be turned into algorithms, are intimately connected to dynamical systems of algebraic correspondences. This connection and some of its ascpects are addressed in these notes.   
+The above field theoretic problems, and the question how the semi-algorithms for their treatment can be turned into algorithms, are intimately connected to problems of dynamical systems of algebraic correspondences. This connection and some of its ascpects are discussed in these notes.   
 
 - The orbit-sum method for higher order equations. <a href="https://arxiv.org/abs/2211.08175" target="_blank" rel="noopener"> [arXiv] </a>
 
