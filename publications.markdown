@@ -16,9 +16,11 @@ This paper is an introduction to the enumeration of restricted lattice walks tha
 
 - Separated variables on plane algebraic curves. <a href="https://arxiv.org/abs/2411.08584" target="_blank" rel="noopener"> [arXiv] </a>
 
-These articles are dedicated to the problem of finding polynomials / rational functions whose variables are separated. The first explains how to determine $I \cap \left(\mathbb{C}[x] + \mathbb{C}[y]\right)$ when $I$ is an ideal in a bivariate polynomial ring $\mathbb{C}[x,y]$ given in terms of a bases. The second and third continue the ideas developed therein to study equations of the form $r(x,y) + q(x,y) p(x,y) = f(x) - g(y)$ for rational functions $r$, $q$, $p$ and $f$ and $g$ of which only the rational function $r$ and the polynnomial $p$ is known. The latter has a field theoretic interpretation. It relates to (the simplest instance of) the problem of computing intersections of fields and finding certain decompositions of elements thereof.         
+These articles are dedicated to the problem of finding polynomials / rational functions whose variables are separated. The first explains how to determine $I \cap \left(\mathbb{C}[x] + \mathbb{C}[y]\right)$ when $I$ is an ideal in a bivariate polynomial ring $\mathbb{C}[x,y]$ given in terms of a bases. The second and third continue the ideas developed therein to study equations of the form $r(x,y) + q(x,y) p(x,y) = f(x) - g(y)$ for rational functions $r$, $q$, $p$ and $f$ and $g$ of which only the rational function $r$ and the polynnomial $p$ is known. The latter has a field theoretic interpretation. It relates to (the simplest instance of) the problem of computing intersections of fields and finding certain decompositions of elements thereof. The arguments involve linear algebra, the Newton-Puiseux algorithm and Galois theory.          
 
 - On finite orbits of infinite correspondences. <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
+
+The above field theoretic problems, and the question how the semi-algorithms for their treatment can be turned into algorithms, are intimately connected to dynamical systems of algebraic correspondences. This connection and some of its ascpects are addressed in these notes.   
 
 - The orbit-sum method for higher order equations. <a href="https://arxiv.org/abs/2211.08175" target="_blank" rel="noopener"> [arXiv] </a>
 
