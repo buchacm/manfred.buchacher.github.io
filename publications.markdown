@@ -24,6 +24,8 @@ The above field theoretic problems, and the question how the semi-algorithms for
 
 - The orbit-sum method for higher order equations. <a href="https://arxiv.org/abs/2211.08175" target="_blank" rel="noopener"> [arXiv] </a>
 
+The orbit-sum method is a method that played an important role in the enumeration of lattice walks (with small steps). 
+
 - The Newton-Puiseux algorithm and effective algebraic series. <a href="https://arxiv.org/abs/2209.00875" target="_blank" rel="noopener"> [arXiv] </a>
 
 - Inhomogeneous Restricted Lattice Walks. <a href="https://arxiv.org/abs/1811.06725" target="_blank" rel="noopener"> [arXiv] </a>
