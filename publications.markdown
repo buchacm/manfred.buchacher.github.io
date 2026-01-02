@@ -16,6 +16,8 @@ This paper is an introduction to the enumeration of restricted lattice walks tha
 
 - Separated variables on plane algebraic curves. <a href="https://arxiv.org/abs/2411.08584" target="_blank" rel="noopener"> [arXiv] </a>
 
+These three articles are dedicated to the problem of finding polynomials or rational functions with separated variables.   
+
 - On finite orbits of infinite correspondences. <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
 
 - The orbit-sum method for higher order equations. <a href="https://arxiv.org/abs/2211.08175" target="_blank" rel="noopener"> [arXiv] </a>
