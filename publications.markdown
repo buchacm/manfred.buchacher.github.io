@@ -32,6 +32,8 @@ This generalization relies on a thorough understanding of the Newton-Puiseux alg
 
 - Inhomogeneous Restricted Lattice Walks. <a href="https://arxiv.org/abs/1811.06725" target="_blank" rel="noopener"> [arXiv] </a>
 
+This article introduces a class of lattice walks that leads to the study of systems of so-called discrete differential equations. We show that solutions of systems of ordinary discrete differential equations are algebraic and explain how their minimal polynomial can be found. 
+
 __Other publications:__
 
 - On the problem of separating variables in multivariate polynomial ideals. <a href="https://arxiv.org/abs/2405.19223" target="_blank" rel="noopener"> [arXiv] </a>
