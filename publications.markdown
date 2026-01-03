@@ -28,7 +28,7 @@ The orbit-sum method is a method that has played an important role in the enumer
 
 - The Newton-Puiseux algorithm and effective algebraic series. <a href="https://arxiv.org/abs/2209.00875" target="_blank" rel="noopener"> [arXiv] </a>
 
-This generalization relies on a thorough understanding of the Newton-Puiseux algorithm and how it allows one to encode algebraic series and derive information about them. The above paper contains some thoughts on it. 
+This generalization relies on a thorough understanding of the Newton-Puiseux algorithm. This paper discusses how to encode algebraic series and derive information about the convex hull of their support.
 
 - Inhomogeneous Restricted Lattice Walks. <a href="https://arxiv.org/abs/1811.06725" target="_blank" rel="noopener"> [arXiv] </a>
 
