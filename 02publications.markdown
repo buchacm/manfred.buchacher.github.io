@@ -10,7 +10,9 @@ __Selected publications:__
 
 This paper is an introduction to the enumeration of restricted lattice walks that can also be seen as an introduction to my research.
 
-- Separating variables in bivariate polynomial ideals <a href="https://arxiv.org/abs/2002.01541" target="_blank" rel="noopener"> [arXiv] </a>
+- Separating variables in bivariate polynomial ideals <a href="https://dl.acm.org/doi/epdf/10.1145/3373207.3404028" target="_blank" rel="noopener"> [link] </a>\
+ with Manuel Kauers and Gleb Pogudin\
+ Proceedings of the 45th International Symposium on Symbolic and Algebraic Computation, 54 - 61, 2020 
 
 - Separating variables in bivariate polynomial ideals: the local case <a href="https://arxiv.org/abs/2404.10377" target="_blank" rel="noopener"> [arXiv] </a>
 
@@ -41,7 +43,7 @@ __Other publications:__
 
 - On the problem of separating variables in multivariate polynomial ideals <a href="https://dl.acm.org/doi/epdf/10.1145/3666000.3669680" target="_blank" rel="noopener"> [link] </a>\
   with Manuel Kauers\
-  Proceedings of the 2024 International Symposium on Symbolic and Algebraic Computation, 100 - 107, 2024
+  Proceedings of the 49th International Symposium on Symbolic and Algebraic Computation, 100 - 107, 2024
 
 - Quadrant walks starting outside the quadrant <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/26Buchacher.pdf" target="_blank" rel="noopener"> [link] </a>\
  with Manuel Kauers and Amélie Trotignon\
