@@ -30,9 +30,11 @@ The orbit-sum method is a method that has played an important role in the enumer
 
 This generalization relies on a thorough understanding of the Newton-Puiseux algorithm. This paper discusses, among other things, how it can be used to encode algebraic series and derive information about the convex hull of their support.
 
-- Inhomogeneous Restricted Lattice Walks <a href="https://arxiv.org/abs/1811.06725" target="_blank" rel="noopener"> [arXiv] </a>
+- Inhomogeneous Restricted Lattice Walks <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2019/75.pdf" target="_blank" rel="noopener"> [link] </a>\
+  with Manuel Kauers\
+  Séminaire Lotharingien de Combinatoire, 82B, Art. 75, 12pp, 2019.
 
-This article introduces a class of lattice walks that leads to the study of systems of so-called discrete differential equations. We show that solutions of systems of ordinary discrete differential equations are algebraic and explain how their minimal polynomial can be found. 
+This article introduces a class of lattice walks that leads to the study of systems of so-called discrete differential equations. We show that solutions of systems of linear ordinary discrete differential equations are algebraic and explain how their minimal polynomial can be found. 
 
 __Other publications:__
 
