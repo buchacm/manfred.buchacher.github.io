@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-__Selected publications:__
+__Publications:__
 
 - x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t) <a href="https://arxiv.org/abs/2512.21753" target="_blank" rel="noopener"> [arXiv] </a>
 
