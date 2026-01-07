@@ -25,5 +25,6 @@ permalink: /presentations/
 - Inhomogeneous lattice walks 
 
 - Rigorosum / PhD defense
+  
  <a href="https://github.com/buchacm/slides/blob/main/rigorosumBuchacher.pdf" target="_blank" rel="noopener"> [slides] </a> PhD defence, JKU Linz, Linz, Austria, November 2021
   
