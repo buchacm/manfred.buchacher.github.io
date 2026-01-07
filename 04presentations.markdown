@@ -35,6 +35,9 @@ permalink: /presentations/
 
 - Quadrant walks starting outside the quadrant
 
+  <a href="https://github.com/buchacm/slides/blob/main/FPSAC_Buchacher.pdf" target="_blank" rel="noopener"> [slides] </a>
+  FPSAC 2021, Bar Ilan University, Ramat Gan, Israel, Online
+
 - Inhomogeneous lattice walks
 
   <a href="https://github.com/buchacm/slides/blob/main/bern2019.pdf" target="_blank" rel="noopener"> [slides] </a>
