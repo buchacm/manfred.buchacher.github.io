@@ -37,6 +37,7 @@ This article introduces a class of lattice walks that leads to the study of syst
 __Other publications:__
 
 - On the problem of separating variables in multivariate polynomial ideals <a href="https://dl.acm.org/doi/epdf/10.1145/3666000.3669680" target="_blank" rel="noopener"> [link] </a>\
+  with Manuel Kauers\
   Proceedings of the 2024 International Symposium on Symbolic and Algebraic Computation, 100 - 107, 2024
 
 - Quadrant walks starting outside the quadrant <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/26Buchacher.pdf" target="_blank" rel="noopener"> [link] </a>\
