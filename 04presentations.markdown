@@ -18,6 +18,8 @@ permalink: /presentations/
 
 - Separating variables in bivariate polynomial ideals: the local case
 
+  <a href="https://github.com/buchacm/slides/blob/main/admont2023separatingVariablesUpdate.pdf" target="_blank" rel="noopener"> [slides] </a> SFB status seminar, Admont, Austria, November 2023
+
 - Separating variables in bivariate polynomial ideals
 
   <a href="https://github.com/buchacm/slides/blob/main/strobl2021.pdf" target="_blank" rel="noopener"> [slides] </a> Séminaire de Calcul Formel, Sorbonne Université, Paris, and Inria Saclay, Palaiseau, France, Online, April 2021
