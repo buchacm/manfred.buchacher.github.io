@@ -4,7 +4,9 @@ title: Software
 permalink: /software/
 ---
 
-- A proof of concept implementation of the multivariate version of the Newton-Puiseux algorithm. It accompanies the paper _The Newton-Puiseux algorithm and effective algebraic series._
+- A proof of concept implementation of the multivariate Newton-Puiseux algorithm. It accompanies the paper _The Newton-Puiseux algorithm and effective algebraic series._
+
+- https://github.com/buchacm/newtonPuiseuxAlgorithm.git
 
 - An implementation of an algorithm that takes a basis of an ideal $I\subseteq\mathbb{C}[x,y]$ and outputs all elements of $I \cap \left( \mathbb{C}[x] + \mathbb{C}[y] \right)$. It is based on the paper _Separating variables in bivariate polynomial ideals._
 
