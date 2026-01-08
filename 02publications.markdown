@@ -6,7 +6,7 @@ permalink: /publications/
 
 __Selected publications__
 
-- x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t) <a href="https://arxiv.org/abs/2512.21753" target="_blank" rel="noopener"> [arXiv] </a>\
+- x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t) <a href="https://arxiv.org/abs/2512.21753" target="_blank" rel="noopener"> [arXiv] </a>
 
 This paper is an introduction to the enumeration of restricted lattice walks that can also be seen as an introduction to my research.
 
