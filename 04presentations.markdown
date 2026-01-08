@@ -67,7 +67,7 @@ __Posters__
   <a href="https://github.com/buchacm/slides/blob/main/posterBuchacher2025.pdf" target="_blank" rel="noopener"> [poster] </a>
   CIRM, Marseille, France, 2025
 
-- Restricted Inhomogeneous Lattice Walks
+- Inhomogeneous restricted lattice walks
 
   <a href="https://github.com/buchacm/slides/blob/main/posterBuchacher2019.pdf" target="_blank" rel="noopener"> [poster] </a>
   FPSAC 2019, Ljubljana, Slovenia, 2019
