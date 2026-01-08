@@ -11,6 +11,9 @@ __Selected presentations__
   <a href="https://github.com/buchacm/slides/blob/main/inria2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
   AROMATH seminar, INRIA Centre at Université Côte d’Azur, Sophia Antipolis, France, November 2025
 
+  <a href="https://github.com/buchacm/slides/blob/main/oemg2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
+  joint meeting of the ÖMG and DMV, Linz, Austria, September 2025
+
   <a href="https://github.com/buchacm/slides/blob/main/aca2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
   Applications of computer algebra -- ACA 2025, Heraklion, Greece, July 2025
 
