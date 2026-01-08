@@ -19,7 +19,7 @@ __Selected presentations__
   Applications of computer algebra -- ACA 2025, Heraklion, Greece, July 2025
 
   <a href="https://github.com/buchacm/slides/blob/main/vienna2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
-  Arbeitsgemeinschaft Diskrete Methematik, Universit\"at Wien, Vienna, Austria, January 2025
+  Arbeitsgemeinschaft Diskrete Methematik, Universität Wien, Vienna, Austria, January 2025
 
 - Separating variables in bivariate polynomial ideals: the local case
 
