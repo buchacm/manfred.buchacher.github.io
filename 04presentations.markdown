@@ -64,6 +64,6 @@ __Posters__
 
 - On the problem of computing intersections of fields
 
-  <a href="https://github.com/buchacm/slides/blob/main/posterBuchacher.pdf" target="_blank" rel="noopener"> [slides] </a>
+  <a href="https://github.com/buchacm/slides/blob/main/posterBuchacher.pdf" target="_blank" rel="noopener"> [poster] </a>
   CIRM, Marseille, France, 2025
 
