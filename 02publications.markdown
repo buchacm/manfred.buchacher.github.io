@@ -6,7 +6,7 @@ permalink: /publications/
 
 __Selected publications:__
 
-- x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t) <a href="https://arxiv.org/abs/2512.21753" target="_blank" rel="noopener"> [arXiv] </a>
+- x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t) <a href="https://arxiv.org/abs/2512.21753" target="_blank" rel="noopener"> [arXiv] </a>\
 
 This paper is an introduction to the enumeration of restricted lattice walks that can also be seen as an introduction to my research.
 
@@ -14,9 +14,11 @@ This paper is an introduction to the enumeration of restricted lattice walks tha
  with Manuel Kauers and Gleb Pogudin\
  Proceedings of the 45th International Symposium on Symbolic and Algebraic Computation, 54 - 61, 2020 
 
-- Separating variables in bivariate polynomial ideals: the local case <a href="https://arxiv.org/abs/2404.10377" target="_blank" rel="noopener"> [arXiv] </a>
+- Separating variables in bivariate polynomial ideals: the local case <a href="https://arxiv.org/abs/2404.10377" target="_blank" rel="noopener"> [arXiv] </a>\
+  submitted 
 
-- Separated variables on plane algebraic curves <a href="https://arxiv.org/abs/2411.08584" target="_blank" rel="noopener"> [arXiv] </a>
+- Separated variables on plane algebraic curves <a href="https://arxiv.org/abs/2411.08584" target="_blank" rel="noopener"> [arXiv] </a>\
+  submitted 
 
 These articles are dedicated to several non-standard elimination problems. The first explains how to determine $I \cap \left(\mathbb{C}[x] + \mathbb{C}[y]\right)$ when $I$ is an ideal in a bivariate polynomial ring $\mathbb{C}[x,y]$ given in terms of a bases. The second and third continue the ideas developed therein to study equations of the form $r(x,y) + q(x,y) p(x,y) = f(x) - g(y)$ for rational functions $r$, $q$, $p$ and $f$ and $g$ of which only the rational function $r$ and the polynnomial $p$ is known. The latter has field theoretic interpretations.
 
@@ -24,7 +26,9 @@ These articles are dedicated to several non-standard elimination problems. The f
 
 These problems, and the question how the semi-algorithms for their treatment can be turned into algorithms, are intimately connected to problems in algebraic dynamics. This connection, and some of its ascpects, are discussed in these notes.   
 
-- The orbit-sum method for higher order equations <a href="https://arxiv.org/abs/2211.08175" target="_blank" rel="noopener"> [arXiv] </a>
+- The orbit-sum method for higher order equations <a href="https://arxiv.org/abs/2211.08175" target="_blank" rel="noopener"> [arXiv] </a>\
+  submitted 
+
 
 The orbit-sum method is a method that has played an important role in the enumeration of lattice walks of walks with small steps. This paper generalizes it to walks with large steps.  
 
