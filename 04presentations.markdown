@@ -69,6 +69,6 @@ __Posters__
 
 - Restricted Inhomogeneous Lattice Walks
 
-  <a href="" target="_blank" rel="noopener"> [poster] </a>
+  <a href="https://github.com/buchacm/slides/blob/main/posterBuchacher2019.pdf" target="_blank" rel="noopener"> [poster] </a>
   FPSAC 2019, Ljubljana, Slovenia, 2019
 
