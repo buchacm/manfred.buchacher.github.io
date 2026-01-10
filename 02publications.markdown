@@ -1,10 +1,48 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Research
+permalink: /research/
 ---
 
-__Selected publications__
+List of papers classified by topics. Some papers are listed several times as they cover two or more major topics.  The full list of papers in reverse chronological order is in the CV and on my Google Scholar profile.
+
+Elimination Theory, The Newton-Puiseux Algorithm, Tropical Geometry 
+
+- the Newton-Puiseux algorithm and effective algebraic series
+  
+- separating variables in bivariate polynomial ideals
+- on the problem of...
+- separating variables in bivariate polynomial ideals: the local case
+- separated variables on plane algebraic curves
+-  x(1-t(x+x^{-1}))F(x;t) = x - tF(0;t) ?
+
+Dynamical Systems of Algebraic Correspondences 
+
+- on finite orbits of infinite correspondonces
+
+Discrete Differential Equations
+
+-  x(1-t(x+x^{-1}))F(x;t) = x - tF(0;t)
+-  the orbit-sum method for higher order equations
+- the Newton-Puiseux algorithm and effective algebraic series
+- quadrant walks starting outside the quadrant
+- inhomogeneous restricted lattice walks
+  
+Enumeration of Restricted Lattice Walks
+
+-  x(1-t(x+x^{-1}))F(x;t) = x - tF(0;t)
+-  the orbit-sum method for higher order equations
+- the Newton-Puiseux algorithm and effective algebraic series
+- quadrant walks starting outside the quadrant
+-  4d-walks in the orthant
+
+  theses:
+
+  PhD thesis
+  Master's thesis
+  
+
+
 
 - x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t) <a href="https://arxiv.org/abs/2512.21753" target="_blank" rel="noopener"> [arXiv] </a>
 
@@ -43,7 +81,7 @@ This generalization relies on a thorough understanding of the Newton-Puiseux alg
 
 This article introduces a class of lattice walks that leads to the study of systems of so-called discrete differential equations. We show that solutions of systems of linear ordinary discrete differential equations are algebraic and explain how their minimal polynomial can be found. 
 
-__Other publications:__
+
 
 - On the problem of separating variables in multivariate polynomial ideals <a href="https://dl.acm.org/doi/epdf/10.1145/3666000.3669680" target="_blank" rel="noopener"> [link] </a>\
   with Manuel Kauers\
