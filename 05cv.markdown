@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-A curriculum vitae with personal information and information on published and not yet published articles, given talks, attendend conferences, research visits and teaching <a href="https://github.com/buchacm/slides/blob/main/curriculumVitae2026.pdf" target="_blank" rel="noopener"> [CV] </a>
+A curriculum vitae with personal information and information on published and not yet published articles, given talks, attendend conferences and workshops, and teaching <a href="https://github.com/buchacm/slides/blob/main/curriculumVitae2026.pdf" target="_blank" rel="noopener"> [CV] </a>
