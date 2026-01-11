@@ -62,11 +62,11 @@ __Optimization__
   Proceedings of the 2018 IEEE International Conference on Acoustics, Speech and Signal Processing, 6309-6313, 2018
   
 
-  __Theses__
+__Theses__
 
-  - Algorithms for the enumeration of lattice walks, PhD thesis, Johannes Kepler University Linz, 2021
+- Algorithms for the enumeration of lattice walks, PhD thesis, Johannes Kepler University Linz, 2021
 
-  - The Asymptotic Behaviour of Denumerable Markov Chains, Master's thesis, Univeristy of Vienna, 2015
+- The Asymptotic Behaviour of Denumerable Markov Chains, Master's thesis, Univeristy of Vienna, 2015
   
 
 
