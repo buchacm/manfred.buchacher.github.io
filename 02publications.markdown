@@ -11,17 +11,23 @@ __Elimination theory__
 
 - _The Newton-Puiseux algorithm and effective algebraic series,_ Journal of Algebra, 688, 284-306, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005642" target="_blank" rel="noopener"> [link] </a>
 
+  We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux     algorithm and an effective equality test for algebraic series. Furthermore, we discuss how to derive information about the support of an algebraic series. Based thereon, we show     how to identify the polynomial and rational solutions of a polynomial equation.
+
 - _Separating variables in bivariate polynomial ideals,_ with Manuel Kauers and Gleb Pogudin, Proceedings of the 45th International Symposium on Symbolic and Algebraic Computation, 54 - 61, 2020 <a href="https://dl.acm.org/doi/epdf/10.1145/3373207.3404028" target="_blank" rel="noopener"> [link] </a>
+  
+  We present an algorithm which for any given ideal $I\subseteq\mathbb{K}[x,y]$ finds all elements of $I$ that have the form $f(x) − g(y)$, i.e., all elements in which no monomial is a multiple of $xy.$
 
 - _Separating variables in bivariate polynomial ideals: the local case,_ 2024 <a href="https://arxiv.org/abs/2404.10377" target="_blank" rel="noopener"> [arXiv] </a>
 
+  We present a semi-algorithm which for any irreducible $p\in\mathbb{K}[x,y]$ finds all elements of $\mathbb{K}(x) + \mathbb{K}(y)$ that are of the form $qp$ for    some $q\in\mathbb{K}(x,y)$ whose denominator is not divisible by $p.$
+
 - _Separated variables on plane algebraic curves, 2024_ <a href="https://arxiv.org/abs/2411.08584" target="_blank" rel="noopener"> [arXiv] </a>
 
-These three articles are dedicated to several non-standard elimination problems. The first explains how to determine $I \cap \left(\mathbb{C}[x] + \mathbb{C}[y]\right)$ when $I$ is an ideal in a bivariate polynomial ring $\mathbb{C}[x,y]$ given in terms of a bases. The second and third continue the ideas developed therein to study equations of the form $r(x,y) + q(x,y) p(x,y) = f(x) - g(y)$ for rational functions $r$, $q$, $p$ and $f$ and $g$ of which only the rational function $r$ and the polynnomial $p$ is known. The latter has field theoretic interpretations.
+  We investigate the problem of deciding whether the restriction of a rational function $r\in\mathbb{K}(x,y)$ to the curve associated with an irreducible polynomial $p\in\mathbb{K}[x,y]$ is the restriction of an element  of $\mathbb{K}(x)+\mathbb{K}(y)$. We present an algorithm and a conjectural semi-algorithm for finding such elements depending on whether $p$ has a non-trivial rational multiple in $\mathbb{K}(x) + \mathbb{K}(y)$ or not.
 
 - _On finite orbits of infinite correspondences, 2025_ <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
 
-These problems, and the question how the corresponding semi-algorithms can be turned into algorithms, are intimately connected to problems in algebraic dynamics. This connection, and some of its ascpects, are discussed in these notes.
+  These notes collect results about algebraic correspondences and adapt them to the setting of correspondences on projective lines. The focus lies on finite orbits of algebraic correspondences. The main result is a field theoretic characterization of the (in)finiteness of the number of finite orbits.
 
 - _On the problem of separating variables in multivariate polynomial ideals,_ with Manuel Kauers, Proceedings of the 49th International Symposium on Symbolic and Algebraic Computation, 100 - 107, 2024 <a href="https://dl.acm.org/doi/epdf/10.1145/3666000.3669680" target="_blank" rel="noopener"> [link] </a>
 
@@ -29,27 +35,33 @@ These problems, and the question how the corresponding semi-algorithms can be tu
 __Dynamical systems__ 
 
 - _On finite orbits of infinite correspondences,_ 2025 <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
+
+  These notes collect results about algebraic correspondences and adapt them to the setting of correspondences on projective lines. The focus lies on finite orbits of algebraic correspondences. The main result is a field theoretic characterization of the (in)finiteness of the number of finite orbits.
   
 
 __Enumeration of lattice walks__
 
 - _x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t),_ 2025 <a href="https://arxiv.org/abs/2512.21753" target="_blank" rel="noopener"> [arXiv] </a>
 
-This paper is an introduction to the enumeration of restricted lattice walks that can also be seen as an introduction to my research.
+  The purpose of these notes is to introduce some of the problems the enumeration of lattice walks is dedicated to and familiarize with some of the arguments they can be addressed with. We will discuss the enumeration of lattice walks, their generating functions, and the functional equations they satisfy. We will focus on algebraic methods for manipulating and solving these equations. Elementary power series algebra will play a prominent role, computer algebra too, but we will repeatedly digress and present ideas and methods of different kind whenever it seems appropriate. The exposition is organized around the most simple yet non-trivial problem in the enumeration of lattice walks. The intention is to illustrate different techniques without getting technical. 
 
 - _The orbit-sum method for higher order equations,_ with Manuel Kauers, 2022 <a href="https://arxiv.org/abs/2211.08175" target="_blank" rel="noopener"> [arXiv] </a>
 
-The orbit-sum method is a method that has played an important role in the enumeration of lattice walks of walks with small steps. This paper generalizes it to walks with large steps.  
+  The orbit-sum method is an algebraic version of the reflection-principle that was introduced by Bousquet-M\'{e}lou and Mishna to solve functional equations that arise in the enumeration of lattice walks with small steps restricted to $\mathbb{N}^2$. It proceeds by computing a set of algebraic substitutions that can be applied to a given functional equation, forming a linear combination of its transformed versions to the end of eliminating some of the unknowns, and eliminating further unknowns by discarding terms with negative powers. The extension of the orbit-sum method to walks with large steps was started by Bostan, Bousquet-M\'{e}lou and Melczer. They presented an algorithm that computes the minimal polynomials of the algebraic substitutions. We continue their work by explaining, among other things, how to perform computations in their splitting field on the level of ``formal'' algebraic extensions and how its elements can be interpreted as series. We thereby make use of the primitive element theorem, Gr\"{o}bner bases and the shape lemma, and the Newton-Puiseux algorithm. 
+
 
 - _The Newton-Puiseux algorithm and effective algebraic series,_ Journal of Algebra, 688, 284-306, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005642" target="_blank" rel="noopener"> [link] </a>
 
-This generalization relies on a thorough understanding of the Newton-Puiseux algorithm. This paper discusses, among other things, how it can be used to encode algebraic series and derive information about the convex hull of their support.
+  We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux     algorithm and an effective equality test for algebraic series. Furthermore, we discuss how to derive information about the support of an algebraic series. Based thereon, we show     how to identify the polynomial and rational solutions of a polynomial equation.
+
   
 - _Inhomogeneous restricted lattice walks,_ with Manuel Kauers, Séminaire Lotharingien de Combinatoire, 82B, Art. 75, 12pp, 2019 <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2019/75.pdf" target="_blank" rel="noopener"> [link] </a>
 
 This article introduces a class of lattice walks that leads to the study of systems of so-called discrete differential equations. We show that solutions of systems of linear ordinary discrete differential equations are algebraic and explain how their minimal polynomial can be found. 
 
 - _Quadrant walks starting outside the quadrant,_ with Manuel Kauers and Amélie Trotignon, Séminaire Lotharingien de Combinatoire, 75B, Art. 26, 11pp, 2021 <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/26Buchacher.pdf" target="_blank" rel="noopener"> [link] </a>
+
+  We investigate a functional equation which resembles the functional equation for the generating function of a lattice walk model for the quarter plane. The interesting feature of this equation is that its orbit sum is zero while its solution is not algebraic. The solution can be interpreted as the generating function of lattice walks in $\mathbb{Z}^2$ starting at $(-1,-1)$ and subject to the restriction that the coordinate axes can be crossed only in one direction. We also consider certain variants of the equation, all of which seem to have transcendental solutions. In one case, the solution is perhaps not even D-finite. 
 
 - _Walks with small steps in the 4D-orthant,_ with Sophie Hofmanninger and Manuel Kauers, Annals of Combinatorics, 25, 153–166, 2021 <a href="https://link.springer.com/article/10.1007/s00026-020-00520-5" target="_blank" rel="noopener"> [link] </a>
 
