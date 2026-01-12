@@ -11,10 +11,10 @@ __Elimination theory__
 
 - _The Newton-Puiseux algorithm and effective algebraic series,_ Journal of Algebra, 688, 284-306, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005642" target="_blank" rel="noopener"> [link] </a>
 
-  We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux     algorithm and an effective equality test for algebraic series. Furthermore, we discuss how to derive information about the support of an algebraic series. Based thereon, we show     how to identify the polynomial and rational solutions of a polynomial equation.
+  We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux algorithm and an effective equality test for algebraic series. Furthermore, we discuss how to derive information about the support of an algebraic series. Based thereon, we show how to identify the polynomial and rational solutions of a polynomial equation.
 
 - _Separating variables in bivariate polynomial ideals,_ with Manuel Kauers and Gleb Pogudin, Proceedings of the 45th International Symposium on Symbolic and Algebraic Computation, 54 - 61, 2020 <a href="https://dl.acm.org/doi/epdf/10.1145/3373207.3404028" target="_blank" rel="noopener"> [link] </a>
-  
+
   We present an algorithm which for any given ideal $I\subseteq\mathbb{K}[x,y]$ finds all elements of $I$ that have the form $f(x) − g(y)$, i.e., all elements in which no monomial is a multiple of $xy.$
 
 - _Separating variables in bivariate polynomial ideals: the local case,_ 2024 <a href="https://arxiv.org/abs/2404.10377" target="_blank" rel="noopener"> [arXiv] </a>
@@ -47,17 +47,16 @@ __Enumeration of lattice walks__
 
 - _The orbit-sum method for higher order equations,_ with Manuel Kauers, 2022 <a href="https://arxiv.org/abs/2211.08175" target="_blank" rel="noopener"> [arXiv] </a>
 
-  The orbit-sum method is an algebraic version of the reflection-principle that was introduced by Bousquet-M\'{e}lou and Mishna to solve functional equations that arise in the enumeration of lattice walks with small steps restricted to $\mathbb{N}^2$. It proceeds by computing a set of algebraic substitutions that can be applied to a given functional equation, forming a linear combination of its transformed versions to the end of eliminating some of the unknowns, and eliminating further unknowns by discarding terms with negative powers. The extension of the orbit-sum method to walks with large steps was started by Bostan, Bousquet-M\'{e}lou and Melczer. They presented an algorithm that computes the minimal polynomials of the algebraic substitutions. We continue their work by explaining, among other things, how to perform computations in their splitting field on the level of ``formal'' algebraic extensions and how its elements can be interpreted as series. We thereby make use of the primitive element theorem, Gr\"{o}bner bases and the shape lemma, and the Newton-Puiseux algorithm. 
-
+  The orbit-sum method is an algebraic version of the reflection-principle that was introduced by Bousquet-Mélou and Mishna to solve functional equations that arise in the enumeration of lattice walks with small steps restricted to $\mathbb{N}^2$. It proceeds by computing a set of algebraic substitutions that can be applied to a given functional equation, forming a linear combination of its transformed versions to the end of eliminating some of the unknowns, and eliminating further unknowns by discarding terms with negative powers. The extension of the orbit-sum method to walks with large steps was started by Bostan, Bousquet-Mélou and Melczer. They presented an algorithm that computes the minimal polynomials of the algebraic substitutions. We continue their work by explaining, among other things, how to perform computations in their splitting field on the level of ``formal'' algebraic extensions and how its elements can be interpreted as series. We thereby make use of the primitive element theorem, Gr\"{o}bner bases and the shape lemma, and the Newton-Puiseux algorithm. 
 
 - _The Newton-Puiseux algorithm and effective algebraic series,_ Journal of Algebra, 688, 284-306, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005642" target="_blank" rel="noopener"> [link] </a>
 
   We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux     algorithm and an effective equality test for algebraic series. Furthermore, we discuss how to derive information about the support of an algebraic series. Based thereon, we show     how to identify the polynomial and rational solutions of a polynomial equation.
-
   
 - _Inhomogeneous restricted lattice walks,_ with Manuel Kauers, Séminaire Lotharingien de Combinatoire, 82B, Art. 75, 12pp, 2019 <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2019/75.pdf" target="_blank" rel="noopener"> [link] </a>
 
-This article introduces a class of lattice walks that leads to the study of systems of so-called discrete differential equations. We show that solutions of systems of linear ordinary discrete differential equations are algebraic and explain how their minimal polynomial can be found. 
+  We consider inhomogeneous lattice walk models in a half-space and in the quarter plane. For the models in a half-space, we show by a generalization of the kernel method to
+  linear systems of functional equations that their generating functions are always algebraic. For the models in the quarter plane, we have carried out an experimental classification of all models with small steps. We discovered many (apparently) D-finite cases for most of which we have no explanation yet.
 
 - _Quadrant walks starting outside the quadrant,_ with Manuel Kauers and Amélie Trotignon, Séminaire Lotharingien de Combinatoire, 75B, Art. 26, 11pp, 2021 <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/26Buchacher.pdf" target="_blank" rel="noopener"> [link] </a>
 
@@ -65,6 +64,7 @@ This article introduces a class of lattice walks that leads to the study of syst
 
 - _Walks with small steps in the 4D-orthant,_ with Sophie Hofmanninger and Manuel Kauers, Annals of Combinatorics, 25, 153–166, 2021 <a href="https://link.springer.com/article/10.1007/s00026-020-00520-5" target="_blank" rel="noopener"> [link] </a>
 
+  We provide some first experimental data about generating functions of restricted lattice walks with small steps in $\mathbb{N}^4$.
 
 __Optimization__
 
