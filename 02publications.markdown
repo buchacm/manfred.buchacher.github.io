@@ -11,15 +11,15 @@ __Elimination theory__
 
 - _The Newton-Puiseux algorithm and effective algebraic series,_ Journal of Algebra, 688, 284-306, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005642" target="_blank" rel="noopener"> [link] </a>
 
-  We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux algorithm and an effective equality test for algebraic series. Furthermore, we discuss how to derive information about the support of an algebraic series. Based thereon, we show how to identify the polynomial and rational solutions of a polynomial equation.
+  We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux algorithm and an effective equality test for algebraic series. We also discuss how to derive information about the support of an algebraic series. Based thereon, we show how to identify the polynomial and rational solutions of a polynomial equation.
 
 - _Separating variables in bivariate polynomial ideals,_ with Manuel Kauers and Gleb Pogudin, Proceedings of the 45th International Symposium on Symbolic and Algebraic Computation, 54 - 61, 2020 <a href="https://dl.acm.org/doi/epdf/10.1145/3373207.3404028" target="_blank" rel="noopener"> [link] </a>
 
-  We present an algorithm which for any given ideal $I\subseteq\mathbb{K}[x,y]$ finds all elements of $I$ that have the form $f(x) − g(y)$, i.e., all elements in which no monomial is a multiple of $xy$.
+  We present an algorithm which for any given ideal $I\subseteq\mathbb{K}[x,y]$ finds all elements of $I$ that have the form $f(x) − g(y)$, that is, all elements in which no monomial is a multiple of $xy$.
 
 - _Separating variables in bivariate polynomial ideals: the local case,_ 2024 <a href="https://arxiv.org/abs/2404.10377" target="_blank" rel="noopener"> [arXiv] </a>
 
-  We present a semi-algorithm which for any irreducible $p\in\mathbb{K}[x,y]$ finds all elements of $\mathbb{K}(x) + \mathbb{K}(y)$ that are of the form $qp$ for    some $q\in\mathbb{K}(x,y)$ whose denominator is not divisible by $p$.
+  We present a semi-algorithm which for any irreducible $p\in\mathbb{K}[x,y]$ finds all elements of $\mathbb{K}(x) + \mathbb{K}(y)$ that are of the form $qp$ for some $q\in\mathbb{K}(x,y)$ whose denominator is not divisible by $p$.
 
 - _Separated variables on plane algebraic curves, 2024_ <a href="https://arxiv.org/abs/2411.08584" target="_blank" rel="noopener"> [arXiv] </a>
 
@@ -27,7 +27,7 @@ __Elimination theory__
 
 - _On finite orbits of infinite correspondences, 2025_ <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
 
-  These notes collect results about algebraic correspondences and adapt them to the setting of correspondences on projective lines. The focus lies on finite orbits of algebraic correspondences. The main result is a field theoretic characterization of the (in)finiteness of the number of finite orbits.
+  We collect results about algebraic correspondences and adapt them to the setting of correspondences on projective lines. The focus lies on finite orbits of algebraic correspondences. The main result is a field theoretic characterization of the (in)finiteness of the number of finite orbits.
 
 - _On the problem of separating variables in multivariate polynomial ideals,_ with Manuel Kauers, Proceedings of the 49th International Symposium on Symbolic and Algebraic Computation, 100 - 107, 2024 <a href="https://dl.acm.org/doi/epdf/10.1145/3666000.3669680" target="_blank" rel="noopener"> [link] </a>
 
@@ -36,7 +36,7 @@ __Dynamical systems__
 
 - _On finite orbits of infinite correspondences,_ 2025 <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
 
-  These notes collect results about algebraic correspondences and adapt them to the setting of correspondences on projective lines. The focus lies on finite orbits of algebraic correspondences. The main result is a field theoretic characterization of the (in)finiteness of the number of finite orbits.
+  We collect results about algebraic correspondences and adapt them to the setting of correspondences on projective lines. The focus lies on finite orbits of algebraic correspondences. The main result is a field theoretic characterization of the (in)finiteness of the number of finite orbits.
   
 
 __Enumeration of lattice walks__
@@ -51,12 +51,11 @@ __Enumeration of lattice walks__
 
 - _The Newton-Puiseux algorithm and effective algebraic series,_ Journal of Algebra, 688, 284-306, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005642" target="_blank" rel="noopener"> [link] </a>
 
-  We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux     algorithm and an effective equality test for algebraic series. Furthermore, we discuss how to derive information about the support of an algebraic series. Based thereon, we show     how to identify the polynomial and rational solutions of a polynomial equation.
+  We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux     algorithm and an effective equality test for algebraic series. We also discuss how to derive information about the support of an algebraic series. Based thereon, we show how to identify the polynomial and rational solutions of a polynomial equation.
   
 - _Inhomogeneous restricted lattice walks,_ with Manuel Kauers, Séminaire Lotharingien de Combinatoire, 82B, Art. 75, 12pp, 2019 <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2019/75.pdf" target="_blank" rel="noopener"> [link] </a>
 
-  We consider inhomogeneous lattice walk models in a half-space and in the quarter plane. For the models in a half-space, we show by a generalization of the kernel method to
-  linear systems of functional equations that their generating functions are always algebraic. For the models in the quarter plane, we have carried out an experimental classification of all models with small steps. We discovered many (apparently) D-finite cases for most of which we have no explanation yet.
+  We consider inhomogeneous lattice walk models in a half-space and in the quarter plane. For the models in a half-space, we show by a generalization of the kernel method to linear systems of functional equations that their generating functions are always algebraic. For the models in the quarter plane, we have carried out an experimental classification of all models with small steps. We discovered many (apparently) D-finite cases for most of which we have no explanation yet.
 
 - _Quadrant walks starting outside the quadrant,_ with Manuel Kauers and Amélie Trotignon, Séminaire Lotharingien de Combinatoire, 75B, Art. 26, 11pp, 2021 <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/26Buchacher.pdf" target="_blank" rel="noopener"> [link] </a>
 
