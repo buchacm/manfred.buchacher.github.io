@@ -41,7 +41,7 @@ __Dynamical systems__
 
 __Enumeration of lattice walks__
 
-- _x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t),_ 2025 <a href="https://arxiv.org/abs/2512.21753" target="_blank" rel="noopener"> [arXiv] </a>
+- _x(1-t(x+x^(-1)) F(x;t) = x - tF(0;t),_ 2025 <a href="https://arxiv.org/abs/2512.21753" target="_blank" rel="noopener"> [arXiv] </a>
 
   The purpose of these notes is to introduce some of the problems the enumeration of lattice walks is dedicated to and familiarize with some of the arguments they can be addressed with. We will discuss the enumeration of lattice walks, their generating functions, and the functional equations they satisfy. We will focus on algebraic methods for manipulating and solving these equations. Elementary power series algebra will play a prominent role, computer algebra too, but we will repeatedly digress and present ideas and methods of different kind whenever it seems appropriate. The exposition is organized around the most simple yet non-trivial problem in the enumeration of lattice walks. The intention is to illustrate different techniques without getting technical. 
 
