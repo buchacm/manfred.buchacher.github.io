@@ -77,5 +77,5 @@ __Theses__
 
 - _Algorithms for the enumeration of lattice walks,_ PhD thesis, Johannes Kepler University Linz, 2021 <a href="https://epub.jku.at/urn/urn:nbn:at:at-ubl:1-46037" target="_blank" rel="noopener"> [link] </a>
 
-- _The Asymptotic Behaviour of Denumerable Markov Chains,_ Master's thesis, University of Vienna, 2015 <a href="https://utheses.univie.ac.at/detail/34846" target="_blank" rel="noopener"> [link] </a>
+- _The asymptotic behaviour of denumerable Markov chains,_ Master's thesis, University of Vienna, 2015 <a href="https://utheses.univie.ac.at/detail/34846" target="_blank" rel="noopener"> [link] </a>
   
