@@ -57,7 +57,7 @@ __Enumeration of lattice walks__
 __Optimization__
 
 - _Graph learning based on total variation minimization,_ with Peter Berger, Gabor Hannak and Gerald Matz,Proceedings of the 2018 IEEE International Conference on Acoustics, Speech and Signal Processing, 6309-6313, 2018 <a href="https://ieeexplore.ieee.org/document/8461603" target="_blank" rel="noopener"> [link] </a>\
-  <sub> We consider the problem of learning the topology of a graph from a given set of smooth graph signals. We construct a weighted adjacency matrix that best explains the data in the sense of achieving the smallest graph total variation. For the case of noisy measurements of the graph signals we propose a scheme that simultaneously denoises the signals and learns the graph adjacency matrix. Our method allows for a direct control of the number of edges and of the weighted node degree. Numerical experiments demonstrate that our graph learning scheme is well suited for community detection. <\sub>
+  <sub> We consider the problem of learning the topology of a graph from a given set of smooth graph signals. We construct a weighted adjacency matrix that best explains the data in the sense of achieving the smallest graph total variation. For the case of noisy measurements of the graph signals we propose a scheme that simultaneously denoises the signals and learns the graph adjacency matrix. Our method allows for a direct control of the number of edges and of the weighted node degree. Numerical experiments demonstrate that our graph learning scheme is well suited for community detection. </sub>
   
 
 __Theses__
