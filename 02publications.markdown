@@ -15,7 +15,7 @@ __Elimination theory__
 
 - _Separating variables in bivariate polynomial ideals,_ with Manuel Kauers and Gleb Pogudin, Proceedings of the 45th International Symposium on Symbolic and Algebraic Computation, 54 - 61, 2020 <a href="https://dl.acm.org/doi/epdf/10.1145/3373207.3404028" target="_blank" rel="noopener"> [link] </a>
 
-  We present an algorithm which for any given ideal $I\subseteq\mathbb{K}[x,y]$ finds all elements of $I$ that have the form $f(x) − g(y)$, that is, all elements in which no monomial is a multiple of $xy$.
+  <sub> We present an algorithm which for any given ideal $I\subseteq\mathbb{K}[x,y]$ finds all elements of $I$ that have the form $f(x) − g(y)$, that is, all elements in which no monomial is a multiple of $xy$. </sub>
 
 - _Separating variables in bivariate polynomial ideals: the local case,_ 2024 <a href="https://arxiv.org/abs/2404.10377" target="_blank" rel="noopener"> [arXiv] </a>
 
