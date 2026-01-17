@@ -10,7 +10,7 @@ List of papers sorted by topics. Some papers are listed several times as they co
 __Elimination theory__
 
 - _The Newton-Puiseux algorithm and effective algebraic series,_ Journal of Algebra, 688, 284-306, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005642" target="_blank" rel="noopener"> [link] </a>\
-  <sub> We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux algorithm and an effective equality test for algebraic series. We also discuss how to derive information about the support of an algebraic series. Based thereon, we show how to identify the polynomial and rational solutions of a polynomial equation. </sub> 
+  <font size="3"> We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux algorithm and an effective equality test for algebraic series. We also discuss how to derive information about the support of an algebraic series. Based thereon, we show how to identify the polynomial and rational solutions of a polynomial equation. </font> 
 
 - _Separating variables in bivariate polynomial ideals,_ with Manuel Kauers and Gleb Pogudin, Proceedings of the 45th International Symposium on Symbolic and Algebraic Computation, 54 - 61, 2020 <a href="https://dl.acm.org/doi/epdf/10.1145/3373207.3404028" target="_blank" rel="noopener"> [link] </a>\
   <sub> We present an algorithm which for any given ideal $I\subseteq\mathbb{K}[x,y]$ finds all elements of $I$ that have the form $f(x) − g(y)$, that is, all elements in which no monomial is a multiple of $xy$. </sub>
