@@ -19,7 +19,7 @@ __Elimination theory__
   <sub> We present a semi-algorithm which for any irreducible polynomial $p\in\mathbb{K}[x,y]$ finds all elements of $\mathbb{K}(x) + \mathbb{K}(y)$ whose numerator is a multiple of $p$. </sub>
 
 - _Separated variables on plane algebraic curves, 2024_ <a href="https://arxiv.org/abs/2411.08584" target="_blank" rel="noopener"> [arXiv] </a>\
-  <h6> We investigate the problem of deciding whether the restriction of a rational function $r\in\mathbb{K}(x,y)$ to the curve associated with an irreducible polynomial $p\in\mathbb{K}[x,y]$ is the restriction of an element of $\mathbb{K}(x)+\mathbb{K}(y)$. We present an algorithm and a conjectural semi-algorithm for finding such elements depending on whether $p$ has a non-trivial rational multiple in $\mathbb{K}(x) + \mathbb{K}(y)$ or not. </h6> helllo
+  <sub> We investigate the problem of deciding whether the restriction of a rational function $r\in\mathbb{K}(x,y)$ to the curve associated with an irreducible polynomial $p\in\mathbb{K}[x,y]$ is the restriction of an element of $\mathbb{K}(x)+\mathbb{K}(y)$. We present an algorithm and a conjectural semi-algorithm for finding such elements depending on whether $p$ has a non-trivial rational multiple in $\mathbb{K}(x) + \mathbb{K}(y)$ or not. </sub>
 
 - _On finite orbits of infinite correspondences, 2025_ <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>\
   <sub> We collect results about algebraic correspondences and adapt them to the setting of correspondences on projective lines. The focus lies on finite orbits of algebraic correspondences. The main result is a field theoretic characterization of the (in)finiteness of the number of finite orbits. </sub>
